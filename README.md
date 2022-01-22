@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C#,JAVA,UML
+- 🌱 I’m currently learning [C#],[JAVA],[UML]
 - 🔭 I’m currently working on 3 new Websites and a Game
-- 📫 How to reach me: https://www.linkedin.com/in/hicham-sentel-bb68081a1/
+- 📫 How to reach me: [https://www.linkedin.com/in/hicham-sentel-bb68081a1/]
 <table width="800px">
 <tr>
 
