@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m currently learning .NET
-- 🔭 I’m currently working on 3 new Websites and a Game
 - 📫 How to reach me: https://www.linkedin.com/in/hicham-sentel-bb68081a1/
 <table width="800px">
 <tr>
@@ -15,7 +13,8 @@
 
 Here are some ideas to get you started:
 
-
+- 🌱 I’m currently learning .NET
+- 🔭 I’m currently working on 3 new Websites and a Game
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
